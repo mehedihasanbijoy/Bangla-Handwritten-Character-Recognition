@@ -14,7 +14,6 @@ The handwritten character recognition problem which varies among different langu
 | • PIL 7.0.0             | • PIL 8.0.0            | 
 | • Numpy 1.19.4          | • Numpy 1.19.4         |
 
-
 ## Train A Particular Model
 #### Part_1: In Colab
 1. Upload the ModelName.ipynb file in colab.
@@ -22,10 +21,14 @@ The handwritten character recognition problem which varies among different langu
 3. Run the notebook.
 4. Two files will be saved after the training completed. Download both ModelName.h5 and ModelName.json files.
 #### Part_2: In PC
-5. Run LoadModel.ipynb and follow the notebook for further work.
+5. Extract Dataset.zip file.
+6. Run LoadModel.ipynb and follow the notebook for further work.
 
 ## Load A Pre-Trained Model
-1. Open LoadModel.ipynb in your PC.
-2. Load the saved model.
-3. Compile the loaded model.
-4. Follow the notebook for further work.
+1. Extract Dataset.zip file.
+2. Open LoadModel.ipynb in your PC.
+3. Load the saved model.
+4. Compile the loaded model.
+5. Follow the notebook for further work.
+
+
