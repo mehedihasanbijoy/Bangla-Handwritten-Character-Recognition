@@ -16,17 +16,17 @@ The handwritten character recognition problem which varies among different langu
 
 ## Train A Particular Model
 #### Part_1: In Colab
-1. Upload the ModelName.ipynb file in colab.
-2. Upload the Dataset.zip file in ModelName.ipynb notebook's Files section. 
+1. Upload the `ModelName.ipynb` file in colab.
+2. Upload the `Dataset.zip` file in `ModelName.ipynb` notebook's Files section. 
 3. Run the notebook.
-4. Two files will be saved after the training completed. Download both ModelName.h5 and ModelName.json files.
+4. Two files will be saved after the training completed. Download both `ModelName.h5` and `ModelName.json` files and keep them in `./Saved Models` directory.
 #### Part_2: In PC
-5. Extract Dataset.zip file.
-6. Run LoadModel.ipynb and follow the notebook for further work.
+5. Extract `Dataset.zip` file.
+6. Run `LoadModel.ipynb` and follow the notebook for further work.
 
 ## Load A Pre-Trained Model
-1. Extract Dataset.zip file.
-2. Open LoadModel.ipynb in your PC.
+1. Extract `Dataset.zip` file.
+2. Open `LoadModel.ipynb` in your PC.
 3. Load the saved model.
 4. Compile the loaded model.
 5. Follow the notebook for further work.
