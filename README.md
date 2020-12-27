@@ -32,3 +32,4 @@ The handwritten character recognition problem which varies among different langu
 5. Follow the notebook for further work.
 
 
+#### Working...
