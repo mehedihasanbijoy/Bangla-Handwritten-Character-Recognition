@@ -30,6 +30,3 @@ The handwritten character recognition problem which varies among different langu
 3. Load the saved model.
 4. Compile the loaded model.
 5. Follow the notebook for further work.
-
-
-#### Working...
