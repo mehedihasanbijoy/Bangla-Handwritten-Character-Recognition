@@ -19,7 +19,7 @@ The handwritten character recognition problem which varies among different langu
 1. Upload the `ModelName.ipynb` file in colab.
 2. Upload the `Dataset.zip` file in `ModelName.ipynb` notebook's Files section. 
 3. Run the notebook.
-4. Two files will be saved after the training completed. Download both `ModelName.h5` and `ModelName.json` files and keep them in `./Saved Models` directory.
+4. Two files can be found in the files section when training is complete. Download both `ModelName.h5` and `ModelName.json` files and keep them in `./Saved Models` directory.
 #### Part_2: In PC
 5. Extract `Dataset.zip` file.
 6. Run `LoadModel.ipynb` and follow the notebook for further work.
